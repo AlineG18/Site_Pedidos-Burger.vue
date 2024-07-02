@@ -1,2 +1,8 @@
 # Site_Pedidos-Burger
- Site para Pedidos de Hamburguer
+ Site para Pedidos de Hamburguer <a href= https://bit.ly/3L4PIM6></a>
+
+ Aula1_Criando o projeto do curso
+
+ Aula2_Criando uma API com JSON server;
+
+ Aula3_Implementando o Vue Router;
