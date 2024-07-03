@@ -11,3 +11,5 @@ Aula3_Implementando o Vue Router;
 Aula4_Finalizando cabeçalho;
 
 Aula5_Finalizando rodapé;
+
+Aula6_Criando banner da aplicação;
