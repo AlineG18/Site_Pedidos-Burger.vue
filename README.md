@@ -13,3 +13,5 @@ Aula4_Finalizando cabeçalho;
 Aula5_Finalizando rodapé;
 
 Aula6_Criando banner da aplicação;
+
+Aula7_Criando formulário de cadastro;
